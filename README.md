@@ -19,8 +19,8 @@ For Selection of model ```Selection_of_model.ipynb```
 
 Model building (to check the model directly use Vadhvan.csv)
 
-Sarima 
+Sarima ```Sarima.ipynb```
 
-Sarima with exogenous values
+Sarima with exogenous values ```sarima_with_exogenous.ipynb```
 
 LSTM (Not accurate)  ```Lstm.ipynb```
