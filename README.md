@@ -17,7 +17,7 @@ For data analysis ```Data_Analysis.ipynb```
 
 For Selection of model ```Selection_of_model.ipynb```
 
-Model building (to check the model directly use Vadhvan.csv)
+Model building (to check the model directly use ```Vadhvan.csv```)
 
 Sarima ```Sarima.ipynb```
 
