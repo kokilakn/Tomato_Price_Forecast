@@ -9,13 +9,13 @@ Download the data from https://drive.google.com/drive/folders/1A2hahfkz4m9JuvHDV
 
 The data is web scrapped from https://agmarknet.gov.in
 
-To clean data  '''Cleaning_Web_Scrapped_data.ipynb'''
+To clean data  ```Cleaning_Web_Scrapped_data.ipynb```
 
-To Preprocess the '''data Preprocesing.ipynb'''
+To Preprocess the ```data Preprocesing.ipynb```
 
-For data analysis '''Data_Analysis.ipynb'''
+For data analysis ```Data_Analysis.ipynb```
 
-For Selection of model '''Selection_of_model.ipynb'''
+For Selection of model ```Selection_of_model.ipynb```
 
 Model building (to check the model directly use Vadhvan.csv)
 
@@ -23,4 +23,4 @@ Sarima
 
 Sarima with exogenous values
 
-LSTM (Not accurate)  '''Lstm.ipynb'''
+LSTM (Not accurate)  ```Lstm.ipynb```
